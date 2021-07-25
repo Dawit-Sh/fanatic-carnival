@@ -333,7 +333,7 @@ button {
      display: flex;
      flex-direction: row-reverse;
 }
-.banner_main_img h3 {
+.banner_main_img h1 {
 
     top: 0;
     position: absolute;
@@ -345,7 +345,8 @@ button {
     align-items: center;
     font-size: 50px;
     font-weight: bold;
-    color: #1e2426;
+    font-family: fantasy;
+    color:red;
 
 }
 
